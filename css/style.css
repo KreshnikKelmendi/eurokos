@@ -583,3 +583,25 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+
+  .w-full {
+    width: 100%;
+  }
+
+  .p-3 {
+    padding: 0.75rem;
+  }
+
+  .text-uppercase {
+    text-transform: uppercase;
+  }
+
+  @keyframes move {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }

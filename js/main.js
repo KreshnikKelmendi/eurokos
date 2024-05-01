@@ -99,6 +99,11 @@
 
 var translations = {
     english: {
+        "Home": "Home",
+        "About": "About",
+        "Services": "Services",
+        "Project": "Project",
+        "Contacts": "Contact",
         "Our roads last longer": "Our roads last longer",
         "Welcome to our website!": "Welcome to our website!",
         "Contact": "Contact",
@@ -171,9 +176,16 @@ var translations = {
         "12thClient": "American Embassy",
         "13thClient": "Ministry of FSK",
         "ConstructionPeriod": "Construction Period",
-        "ContractAmount": "Contract Amount"
+        "ContractAmount": "Contract Amount",
+        "ContactDescription": "You're welcome to contact us via email at info@eurokos.net. We have offices in Kosovo and Albania, ready to assist you.",
+        "ContactTitleDesc": "Feel Free to Reach Out"
     },
     albanian: {
+        "Home": "Ballina",
+        "About": "Rreth Nesh",
+        "Services": "Serviset",
+        "Project": "Projektet",
+        "Contacts": "Kontakti",
         "Our roads last longer": "Rrugët tona jetojnë gjatë",
         "Welcome to our website!": "Mirë se vini në faqen tonë të internetit!",
         "Contact": "Kontakti",
@@ -246,7 +258,9 @@ var translations = {
         "12thClient": "Ambasada Amerikane",
         "13thClient": "Ministria e FSK",
         "ConstructionPeriod": "Periudha e ndërtimit",
-        "ContractAmount": "Vlera e kontratës"
+        "ContractAmount": "Vlera e kontratës",
+        "ContactDescription": "Ju lutemi të na kontaktoni nëpërmjet email-it në info@eurokos.net. Ne kemi zyra në Kosovë dhe Shqipëri, gati për të ju ndihmuar",
+        "ContactTitleDesc": "Ndihuni të lirë të na kontaktoni"
     }
 };
 
