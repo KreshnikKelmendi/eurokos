@@ -42,7 +42,7 @@
 
     // Facts counter
     $('[data-toggle="counter-up"]').counterUp({
-        delay: 10,
+        delay: 7,
         time: 2000
     });
 
@@ -50,7 +50,7 @@
     // Header carousel
     $(".header-carousel").owlCarousel({
         autoplay: true,
-        smartSpeed: 1500,
+        smartSpeed: 1000,
         loop: true,
         nav: false,
         dots: true,
@@ -124,7 +124,7 @@ var translations = {
         "ThirdService": "Maintenance",
         "ThirdDescService": "“EUROKOS” personnel always live the future ahead of everyone else. Because we always have projects for the upcoming years, our work does not end when the inauguration ribbon is cut. We constantly stand beside our actions and respecting their deadline of sustainability, as we have declared and as it was requested in the contract. When we give our word we like to keep it.",
         "FourthService": "Hydropowers",
-        "FourthDescService": "At Eurokos, we understand the importance of harnessing the potential of hydropower to meet the growing demand for energy while minimizing environmental impact. Our expertise in hydropower allows us to design, construct, and maintain hydroelectric facilities that provide reliable and efficient electricity generation.",
+        "FourthDescService": "  At Eurokos, we recognize the paramount importance of leveraging renewable energy sources to address the ever-increasing demand for power while prioritizing environmental sustainability. Our commitment to renewable energy spans various technologies, including solar, wind, hydro, and more. With our expertise in renewable energy solutions, we specialize in designing, constructing, and maintaining facilities that harness these abundant resources to generate clean, reliable, and efficient electricity.",
         "FifthService": "Signalling",
         "FifthDescService": "Combined signaling with the lighting figuratively represent assisting eyes of a road. A road with a modern signaling cannot be a dark road, cannot be a dead end road. Our company pays a special attention to these horizontal and vertical lighting elements with distinguishing colors that save a life, especially during the difficult atmospheric conditions.",
         "SixthService": "Construction",
@@ -206,7 +206,7 @@ var translations = {
         "ThirdService": "Mirëmbajtjen",
         "ThirdDescService": "Personeli i “EUROKOS”-it gjithmonë jeton në të ardhmen e përpara të tjerëve. Sepse gjithmonë kemi plane e projekte për vitet që vijnë. Puna jonë nuk përfundon ditën kur pritet shiriti përurues. Ne qëndrojmë vazhdimisht me e pranë veprave tona duke respektuar afatin e tyre të qëndrueshmërisë.",
         "FourthService": "Hidrocentralet",
-        "FourthDescService": "Në Eurokos, ne e kuptojmë rëndësinë e përdorimit të potencialit të hidroenergisë për të përmbushur kërkesën e rritur për energji ndërsa minimizojmë ndikimin në mjedis. Ekspertiza jonë në hidroenergi na lejon të projektuam, ndërtojmë dhe mirëmbajmë objekte hidroelektrike që ofrojnë gjenerim të besueshëm dhe efikas të energjisë elektrike.",
+        "FourthDescService": "Në Eurokos, ne e njohim rëndësinë e paepshme të shfrytëzimit të burimeve të energjisë së rinovueshme për të adresuar kërkesën gjithnjë e më të madhe për energji ndërsa vlerësojmë paraprakisht qëndrueshmërinë mjedisore. Nënshtrohemi energjisë së rinovueshme përfshirë teknologjitë e ndryshme, përfshirë diellin, erën, hidro, dhe më shumë. Me ekspertizën tonë në zgjidhjet e energjisë së rinovueshme, specializohemi në projektimin, ndërtimin, dhe mirëmbajtjen e objekteve që shfrytëzojnë këto burime të pasura për të prodhuar energji të pastër, të besueshme, dhe efikase.",
         "FifthService": "Sinjalizimi",
         "FifthDescService": "Sinjalizimi i kombinuar me ndriçimin përfaqësojnë figurativisht sytë ndihmës të një rruge. Një rrugë me sinjalizim modern nuk mund të jetë rrugë e errët, nuk mund të jetë rrugë qorre. Kompania jonë u kushton rëndësi të veçantë këtyre elementeve ndriçuese horizontale e vertikale me ngjyra të dallueshme që shpëtojnë jetë, sidomos gjatë kushteve të rënduara atmosferike.",
         "SixthService": "Ndërtimtari",
